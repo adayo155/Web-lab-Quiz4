@@ -1,0 +1,31 @@
+.componentChild {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: 50%;
+  background-color: var(--color-maroon);
+}
+.get {
+  margin: 0;
+}
+.ellipseParent,
+.getStartedContainer {
+  position: absolute;
+  top: 30.67%;
+  left: 17.33%;
+}
+.ellipseParent {
+  top: 475px;
+  left: 575px;
+  width: 150px;
+  height: 150px;
+  cursor: pointer;
+  text-align: center;
+  font-size: var(--font-size-xl);
+  color: var(--color-white);
+  font-family: var(--font-inter);
+}

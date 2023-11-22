@@ -1,0 +1,32 @@
+.groupChild {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-darkgray);
+  width: 800px;
+  height: 138px;
+}
+.allCopyRights,
+.image2Icon {
+  position: absolute;
+  top: 57px;
+  left: 158px;
+}
+.image2Icon {
+  top: 36px;
+  left: 15px;
+  width: 127px;
+  height: 80px;
+  object-fit: cover;
+}
+.rectangleParent {
+  position: absolute;
+  top: 1452px;
+  left: 0;
+  width: 800px;
+  height: 138px;
+  text-align: left;
+  font-size: var(--font-size-xl);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}
